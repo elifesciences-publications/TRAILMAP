@@ -113,8 +113,6 @@ This will load in the current model and start training the model on your own dat
 * **Albert Pun**
 * **Drew Friedmann**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License
