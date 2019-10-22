@@ -121,3 +121,6 @@ This project is licensed under the MIT License
 
 * Research sponsored by Liqun Luo's Lab
 
+### This code is associated with the paper from Ren et al., "Single-cell transcriptomes and whole-brain projections of serotonin neurons in the mouse dorsal and median raphe nuclei". eLife, 2019. http://dx.doi.org/10.7554/eLife.49424
+
+
